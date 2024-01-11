@@ -33,3 +33,25 @@ Enhance Customer Engagement Process with GDPR compliance (Level 1)
 This Level 1 Enhance Customer Engagement Process has been modified to be GDPR compliant.
 
 ![GDPR Compliant Data Architecture](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/ef7da487-8e23-47b6-a114-da9886991e16)
+
+
+
+ ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conclusion:
+
+Key finding reveals GDPR noncompliance in the collection of patrons' personally identifiable data at the POS terminal without their consent, lacking facilities for GDPR maintenance. The Customer Engagement System managed by this startup currently lacks substantial GDPR compliance measures.
+
+ ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recommendations:
+
+To achieve GDPR compliance, implement the following changes:
+
+1) Obtain patron consent at the Toast POS terminal during data capture.
+2) Inform patrons about the purpose of data collection.
+3) Provide facilities for patrons to initiate data protection requests, such as obtaining their data copy, requesting modifications, unsubscribing, or complete deletion.
+
+ ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benefits of Implementation:
+
+Implementing these changes, despite the majority of this startup's customers being in the U.S, offers several advantages:
+
+1) Reduced cost of data management with a common architecture for all customers.
+2) Attraction of more customers from Europe through GDPR compliance.
+3) Proactive compliance fosters trust, potentially expanding the customer base.
