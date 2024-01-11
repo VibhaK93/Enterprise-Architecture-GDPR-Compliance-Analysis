@@ -11,3 +11,11 @@ The project explores the advancements in technology and the concerns surrounding
 This is the Context Level Diagram of Startup's Customer Engagement System, which revolves around business patrons engaging, maintaining, and satisfying them by analyzing their purchasing patterns to develop and execute relevant marketing campaigns.
 
 ![Context Level Data Architecture Analysis](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/655c3245-ae1a-4e2e-898d-16a009fbf155)
+
+
+ ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer Engagement System Lifecycle (Level 0)
+
+This data flow diagram - Level 0 shows the Level 0 Customer Engagement System Lifecycle as a whole following the circle of events from Business Patrons making an order to them ultimately receiving marketing materials over SMS and email.
+
+![Data Flow Diagram_Level 0](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/86abcb95-8e92-4d8a-8c4e-a6eb3c54c449)
+
