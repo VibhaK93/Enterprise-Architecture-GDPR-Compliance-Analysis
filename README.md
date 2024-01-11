@@ -24,3 +24,12 @@ This Level 0 data flow diagram illustrates the end-to-end Customer Engagement Sy
 This Level 1 data flow diagram illustrates the Enhanced Customer Engagement process which is an extension of the Level 0 Customer Engagement System Data Flow Diagram mentioned previously.
 
 ![Data Flow Diagram_Level 1](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/7d4afeaf-5995-43fd-a513-cd7d8d23a9b1)
+
+
+
+ ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GDPR Compliant Data Architecture
+Enhance Customer Engagement Process with GDPR compliance (Level 1)
+
+This Level 1 Enhance Customer Engagement Process has been modified to be GDPR compliant.
+
+![GDPR Compliant Data Architecture](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/ef7da487-8e23-47b6-a114-da9886991e16)
