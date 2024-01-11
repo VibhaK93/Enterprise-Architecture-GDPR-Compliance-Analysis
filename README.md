@@ -15,7 +15,12 @@ This is the Context Level Diagram of Startup's Customer Engagement System, which
 
  ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer Engagement System Lifecycle (Level 0)
 
-This data flow diagram - Level 0 shows the Level 0 Customer Engagement System Lifecycle as a whole following the circle of events from Business Patrons making an order to them ultimately receiving marketing materials over SMS and email.
+This Level 0 data flow diagram illustrates the end-to-end Customer Engagement System Lifecycle, starting from order placement by Business Patrons and culminating in the receipt of marketing materials via SMS and email.
 
 ![Data Flow Diagram_Level 0](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/86abcb95-8e92-4d8a-8c4e-a6eb3c54c449)
 
+ ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer Engagement System Lifecycle (Level 1)
+
+This Level 1 data flow diagram illustrates the Enhanced Customer Engagement process which is an extension of the Level 0 Customer Engagement System Data Flow Diagram mentioned previously.
+
+![Data Flow Diagram_Level 1](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/7d4afeaf-5995-43fd-a513-cd7d8d23a9b1)
