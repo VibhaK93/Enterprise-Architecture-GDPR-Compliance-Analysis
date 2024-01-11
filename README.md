@@ -4,3 +4,9 @@ The project explores the advancements in technology and the concerns surrounding
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stakeholders Analysis
  ![Stakeholders Analysis](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/c0427edd-a60e-4e33-a5ea-b389885474cb)
+
+
+ ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Context Level Architecture Analysis
+This is the Context Level Diagram of Startup's Customer Engagement System, which revolves around business patrons for engaging, maintaining, and satisfying them by analysing their purchasing patterns to develop and execute relevant marketing campaigns.
+
+![Context Level Data Architecture Analysis](https://github.com/VibhaK93/Enterprise-Architecture-GDPR-Compliance-Analysis/assets/146596962/35326726-c6c0-4743-a47f-e63b42273963)
