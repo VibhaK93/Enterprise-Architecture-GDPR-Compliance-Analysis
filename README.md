@@ -36,13 +36,13 @@ This Level 1 Enhance Customer Engagement Process has been modified to be GDPR co
 
 
 
- ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conclusion:
+ ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conclusion: 
 
-Key finding reveals GDPR noncompliance in the collection of patrons' personally identifiable data at the POS terminal without their consent, lacking facilities for GDPR maintenance. The Customer Engagement System managed by this startup currently lacks substantial GDPR compliance measures.
+      Key finding reveals GDPR noncompliance in the collection of patrons' personally identifiable data at the POS terminal without their consent, lacking facilities for GDPR maintenance. The Customer Engagement System managed by this startup currently lacks substantial GDPR compliance measures.
 
  ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recommendations:
 
-To achieve GDPR compliance, implement the following changes:
+      To achieve GDPR compliance, implement the following changes:
 
 1) Obtain patron consent at the Toast POS terminal during data capture.
 2) Inform patrons about the purpose of data collection.
@@ -50,7 +50,7 @@ To achieve GDPR compliance, implement the following changes:
 
  ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benefits of Implementation:
 
-Implementing these changes, despite the majority of this startup's customers being in the U.S, offers several advantages:
+      Implementing these changes, despite the majority of this startup's customers being in the U.S, offers several advantages:
 
 1) Reduced cost of data management with a common architecture for all customers.
 2) Attraction of more customers from Europe through GDPR compliance.
